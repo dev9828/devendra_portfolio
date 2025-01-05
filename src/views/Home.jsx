@@ -69,7 +69,7 @@ const Home = () => {
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div className="mt-3 sm:mt-0 cursor-pointer w-1/2">
                 <a
-                  href="https://drive.google.com/file/d/1QucTSTl47vgBq382mUVrsI9Ga7O-9Sgc/view?usp=drive_link" // Replace with your Drive link
+                  href="https://drive.google.com/file/d/158sV7zS_1V0ZaeqxWs_kThidMXlaIwan/view?usp=drivesdk" // Replace with your Drive link
                   target="_blank" // Open the CV in a new tab
                   rel="noopener noreferrer" // Security best practice
                   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
